@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: labML
 channels:
   - anaconda
   - pytorch
